@@ -1,0 +1,31 @@
+{
+  "5c4bd4dc-952d-4b2a-8598-ecf99672092a": {
+    "filename": "5c4bd4dc-952d-4b2a-8598-ecf99672092a.wav",
+    "original_name": "james_completo.wav",
+    "ref_text": null,
+    "file_hash": "0a1199d24d00235e0047620c1563ce2973a200720df93bb98412ea70f98ab057",
+    "created_at": "1792708985.8335238",
+    "name": "james_clonado.wav"
+  },
+  "d5c27eee-35c5-4493-9ed1-8770b66a0cb6": {
+    "filename": "d5c27eee-35c5-4493-9ed1-8770b66a0cb6.mp3",
+    "original_name": "JAMES RODR\u00cdGUEZ anuncia su RETIRADA de la SELECCI\u00d3N COLOMBIA - Diario AS.mp3",
+    "ref_text": null,
+    "file_hash": "1d17c59b3f62d632ef4c1e0569bcae16186617501e69138a471ca489c743f975",
+    "created_at": "1792709850.586625"
+  },
+  "8617c57e-faf3-4f2c-bb23-c5f26ca5907c": {
+    "filename": "8617c57e-faf3-4f2c-bb23-c5f26ca5907c.wav",
+    "original_name": "james_referencia_15s.wav",
+    "ref_text": null,
+    "file_hash": "e4a0c8799b44b180a3ff87995ba5cf4687a84f1395ebec410b515b75b3a206bd",
+    "created_at": "1792709976.5423737"
+  },
+  "76796377-c757-4c1d-a954-0664771dfa56": {
+    "filename": "76796377-c757-4c1d-a954-0664771dfa56.wav",
+    "original_name": "james_referencia_15s.wav",
+    "ref_text": "Hoy quiero hablarles de Del Coraz\u00f3n. Esp\u00e9te muchos a\u00f1os, muchos partidos, muchas alegr\u00edas y tan...",
+    "file_hash": "709031d32316888d61fd1cedccaf8794a9709fe6f84055e29bdad44c1197d878",
+    "created_at": "1792720589.9145863"
+  }
+}
